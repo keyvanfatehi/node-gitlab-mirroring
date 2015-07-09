@@ -1,0 +1,17 @@
+{
+  "name": "gitlab-mirroring",
+  "version": "1.0.0",
+  "description": "Tool for mirroring git repos into a gitlab server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^2.9.32",
+    "gitlab": "^1.3.0",
+    "lodash": "^3.10.0",
+    "shelljs": "^0.5.1"
+  }
+}
